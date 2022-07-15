@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/filmsrf/static/css/main.95551340.css",
+    "main.js": "/filmsrf/static/js/main.aba722a7.js",
+    "static/js/787.a1773235.chunk.js": "/filmsrf/static/js/787.a1773235.chunk.js",
+    "index.html": "/filmsrf/index.html",
+    "static/media/search.svg": "/filmsrf/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.95551340.css.map": "/filmsrf/static/css/main.95551340.css.map",
+    "main.aba722a7.js.map": "/filmsrf/static/js/main.aba722a7.js.map",
+    "787.a1773235.chunk.js.map": "/filmsrf/static/js/787.a1773235.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95551340.css",
+    "static/js/main.aba722a7.js"
+  ]
+}
